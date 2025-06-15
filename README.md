@@ -1,4 +1,3 @@
-###**SaiKumar Sales Analysis**
 ### 📊 Project Title: **Sai Kumar Sales Analysis**
 
 #### 📁 Description:
@@ -67,6 +66,11 @@ The dashboard presents a multi-faceted view of sales performance across differen
 * All data transformations, cleaning, and modeling were done using Power Query inside Power BI.
 * The final dashboard provides interactive filtering by region, segment, and city.
 
-###Snapshot of Dashboard:
 
 ![Saikumar_Sales_Dashboard](https://github.com/user-attachments/assets/3d472350-7505-45c4-94ba-355a14afccb7)
+
+
+
+
+
+
